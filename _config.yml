@@ -1,6 +1,5 @@
 # Site settings
 title: kunpeng # 你的博客名字，可以定义修订
-theme: Cayman
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "这是我的日常博客"  # 一句话描述你的博客
