@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "这是我的日常博客"  # 一句话描述你的博客
-baseurl: ""
-url: "http://kunpeng"  # 此处填写你的博客地址 
+baseurl: "/kunpeng.blog/"
+url: "http://kunpeng.blog"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
